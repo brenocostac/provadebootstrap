@@ -1,0 +1,22 @@
+img{
+  max-width: 100%;
+}
+.nav-link:hover{
+  color: red !important;
+}
+
+.btn-header {
+  text-decoration:underline;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.underline:hover{
+  color: red !important;
+}
+
+.btn{
+  white-space:unset !important;
+}
